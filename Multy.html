@@ -30,6 +30,7 @@
 
       h1 {
         margin: 30px;
+        margin-top:20rem;
         font-family: monospace;
         text-shadow: 5px 0 #232931;
         font-size: 4.5rem;
@@ -80,6 +81,11 @@
       .cont2 {
         display: flex;
       }
+      @media screen and (max-width: 800px) {
+  .container, .cont2, .dice {
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+}
     </style>
   </head>
 
