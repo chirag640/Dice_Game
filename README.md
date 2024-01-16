@@ -21,7 +21,7 @@ The Dice Game web application offers a virtual experience of rolling dice. It in
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/dice-game.git
+    git clone https://github.com/chirag640/dice-game.git
     ```
 
 2. Open the `index.html` file in a web browser to play the Dice Game.
